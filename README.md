@@ -1,2 +1,3 @@
 # Vertex-AI-Custom-Search-on-Website
-This project enables semantic search and question answering on website content using Google Cloud Vertex AI Search, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). The system leverages Vertex AI to crawl and index content from specific websites defined in a custom data store. It retrieves the top 10 most relevant webpages, extracts and chunks the text, and generates grounded, intelligent responses to user queries through a custom frontend.
+
+This project enables semantic search and question answering on website content using Google Cloud Vertex AI Search, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). The system leverages Vertex AI to crawl and index content from specific websites defined in a custom data store. It retrieves the top 10 most relevant webpages and returns each page’s title, URL, and a content snippet, providing users with concise and context-rich search results. 
